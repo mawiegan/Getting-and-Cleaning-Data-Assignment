@@ -17,6 +17,7 @@ Data loading and transformation
 11. This new data set was exported to Data_averages.txt
 
 List of variables
+
   Subject
   
   Activity
